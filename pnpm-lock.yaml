@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@nclsndr/npm-export-playground':
-    specifier: ^1.0.1
-    version: 1.0.1
+    specifier: ^1.0.4
+    version: 1.0.4
 
 devDependencies:
   typescript:
@@ -16,8 +16,8 @@ devDependencies:
 
 packages:
 
-  /@nclsndr/npm-export-playground@1.0.1:
-    resolution: {integrity: sha512-bx62mb1sesOh1bHXlytJQzPhpXziWFxyB4+HkjaunUNlvq3fgvFzG0SUyAZ+k/HIvcFSJLRTz2oCvPCZZ6rYBQ==}
+  /@nclsndr/npm-export-playground@1.0.4:
+    resolution: {integrity: sha512-Z+VQSms0JjbYPoCiSN31Wa9FZE9R7QRDQJfR6ZBg9n32HccPx2QrInahW4GaeUDGNgDSUcNUNq5bq+SL2cVfdg==}
     dev: false
 
   /typescript@5.2.2:

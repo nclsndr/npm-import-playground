@@ -7,7 +7,7 @@
     "build": "tsc --build"
   },
   "dependencies": {
-    "@nclsndr/npm-export-playground": "^1.0.1"
+    "@nclsndr/npm-export-playground": "^1.0.4"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
